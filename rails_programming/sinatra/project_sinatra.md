@@ -100,6 +100,7 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* gregthepeg4's Solution (Hangman) [Github](https://github.com/gregthepeg4/hangman_online) - [Live](https://frozen-plateau-47969.herokuapp.com/)
 * Ovsjah Schweinefresser's Solution (Hangman) [Github](https://github.com/Ovsjah/hangman_on_web) - [Live](https://warm-inlet-77219.herokuapp.com/game)
 * Lucas Bicudo's Solution (Hangman) [Github](https://github.com/lucbic/hangman) - [Live](https://lit-garden-60308.herokuapp.com/)
 * Jmooree30's solution (Hangman) [Github](https://github.com/jmooree30/Sinatra_hangman.git) - [Live](https://gentle-waters-29359.herokuapp.com/)
